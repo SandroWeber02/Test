@@ -1,0 +1,36 @@
+body{
+    background-color: #ccc;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sidebar {
+    width: 200px;
+    height: 600px;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    position: fixed;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #555; 
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease; 
+}
+
+nav ul li a:hover {
+    color: #ddd; 
+}
