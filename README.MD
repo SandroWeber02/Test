@@ -5,7 +5,6 @@ __*A atividade pede:
 Desenvolver um site com PHP que se conecte a um banco de dados usando o recurso PHP Data Objects (PDO), que é uma camada de abstração que permite trabalhar com diferentes tipos de bancos de dados de forma padronizada.
 Realizar operações básicas com o banco de dados por meio de comandos PHP, como criar uma tabela, inserir um dado e recuperar esse dado. Você deve usar o PDO para executar esses comandos e manipular os resultados.*__
 
-***
 
 ## Tecnologias que foram ultilizadas:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
